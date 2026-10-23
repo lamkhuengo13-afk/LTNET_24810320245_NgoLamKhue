@@ -64,9 +64,5 @@
 
 <img width="977" height="645" alt="alert" src="https://github.com/user-attachments/assets/f4203032-5fb8-451f-8778-df2e5fcb9c24" />
 
-- Ngôn ngữ lập trình: C#
-- Nền tảng: .NET Windows Forms
-- Môi trường phát triển: Visual Studio
-- Các nội dung thực hành: Data Binding, Validation, File I/O, MDI, Async/Await, xử lý luồng và cập nhật giao diện an toàn.
 
 
